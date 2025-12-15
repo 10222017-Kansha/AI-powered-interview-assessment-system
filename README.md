@@ -1,0 +1,1 @@
+Project ini bertujuan untuk membantu Human Recruitment dalam menilai interview yang dilakukan secara online. Project ini dapat mentranskripsi audio ke dalam text dan membantu menilai jawaban yang diberikan berdasarkan rubrik penilaian yang diinput. Output dari project ini merupakan sebuah web untuk input file dan output hasil analisis.
